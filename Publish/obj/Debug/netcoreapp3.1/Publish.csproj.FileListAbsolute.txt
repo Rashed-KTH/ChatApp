@@ -1,0 +1,12 @@
+/Users/ira/20hours/nats_messaging/ChatApp/Publish/bin/Debug/netcoreapp3.1/Publish.deps.json
+/Users/ira/20hours/nats_messaging/ChatApp/Publish/bin/Debug/netcoreapp3.1/Publish.runtimeconfig.json
+/Users/ira/20hours/nats_messaging/ChatApp/Publish/bin/Debug/netcoreapp3.1/Publish.runtimeconfig.dev.json
+/Users/ira/20hours/nats_messaging/ChatApp/Publish/bin/Debug/netcoreapp3.1/Publish.dll
+/Users/ira/20hours/nats_messaging/ChatApp/Publish/bin/Debug/netcoreapp3.1/Publish.pdb
+/Users/ira/20hours/nats_messaging/ChatApp/Publish/bin/Debug/netcoreapp3.1/NATS.Client.dll
+/Users/ira/20hours/nats_messaging/ChatApp/Publish/obj/Debug/netcoreapp3.1/Publish.csprojAssemblyReference.cache
+/Users/ira/20hours/nats_messaging/ChatApp/Publish/obj/Debug/netcoreapp3.1/Publish.AssemblyInfoInputs.cache
+/Users/ira/20hours/nats_messaging/ChatApp/Publish/obj/Debug/netcoreapp3.1/Publish.AssemblyInfo.cs
+/Users/ira/20hours/nats_messaging/ChatApp/Publish/obj/Debug/netcoreapp3.1/Publish.csproj.CopyComplete
+/Users/ira/20hours/nats_messaging/ChatApp/Publish/obj/Debug/netcoreapp3.1/Publish.dll
+/Users/ira/20hours/nats_messaging/ChatApp/Publish/obj/Debug/netcoreapp3.1/Publish.pdb
